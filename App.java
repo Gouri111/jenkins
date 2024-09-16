@@ -32,7 +32,7 @@ public class App
     }
     public static void main( String[] args )
     {
-        int n = 6;
+        int n = 10;
         printPattern(n);
     }
 }
